@@ -1,0 +1,64 @@
+name: mvp_boilerplate
+description: A minimalistic Flutter boilerplate for MVP development with Firebase and GetX
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management & Navigation
+  get: ^4.6.6
+
+  # Firebase
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.9
+  firebase_messaging: ^15.2.9
+
+  # Social Authentication
+  google_sign_in: ^6.1.6
+  sign_in_with_apple: ^7.0.1
+  flutter_facebook_auth: ^6.0.3
+
+  # Local Storage
+  get_storage: ^2.1.1
+
+  # UI Utilities
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.0
+
+  # Utils
+  intl: ^0.18.1
+  image_picker: ^1.0.4
+  url_launcher: ^6.2.2
+
+  # AdMob
+  google_mobile_ads: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+#  assets:
+##    - assets/images/
+##    - assets/icons/
+#
+#  fonts:
+#    - family: Inter
+#      fonts:
+#        - asset: assets/fonts/Inter-Regular.ttf
+#        - asset: assets/fonts/Inter-Medium.ttf
+#          weight: 500
+#        - asset: assets/fonts/Inter-SemiBold.ttf
+#          weight: 600
+#        - asset: assets/fonts/Inter-Bold.ttf
+#          weight: 700

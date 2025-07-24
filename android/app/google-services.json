@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323661820977",
+    "project_id": "launchgrid-app",
+    "storage_bucket": "launchgrid-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323661820977:android:c9d61a6fbc97331bbc9110",
+        "android_client_info": {
+          "package_name": "com.example.mvp_getx_boilerplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwErZuiO0p9T3td0R-zsiZjwdhGh7mnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
