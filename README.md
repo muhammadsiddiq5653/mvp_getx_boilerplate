@@ -635,17 +635,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GetX Team** for the excellent state management solution
 - **Community Contributors** for their valuable feedback and contributions
 
-## 📞 Support
-
-### Getting Help
-- 📧 **Email**: support@yourapp.com
-- 💬 **Discord**: [Join our community](https://discord.gg/yourapp)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/flutter-mvp-boilerplate/issues)
-- 📚 **Documentation**: [Wiki](https://github.com/yourusername/flutter-mvp-boilerplate/wiki)
-
-### Commercial Support
-For commercial support, custom development, or consulting services, please contact us at business@yourapp.com.
-
 ---
 
 ## 🎯 What's Next?
